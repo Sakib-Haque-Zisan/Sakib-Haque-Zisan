@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakib Haque Zisan</h1>
-<h3 align="center">Cyber Security Researcher । Bug Hunter । CTF Player। Mentor। Chief of Team - Bengal Black Diamond 'Gray Hat Hacker's Community</h3>
+<h3 align="center">Cyber Security Researcher । Pentester । Engineer। Mentor। Chief of Team - Bengal Black Diamond 'Gray Hat Hacker's Community</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakib-haque-zisan&label=Profile%20views&color=0e75b6&style=flat" alt="sakib-haque-zisan" /> </p>
 
